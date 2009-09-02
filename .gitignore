@@ -1,4 +1,3 @@
 sites/default/settings.php
 sites/default/files
-sites/all/modules
-sites/all/themes
+sites/all
